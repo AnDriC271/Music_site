@@ -1,0 +1,71 @@
+.main{
+	font-family: "Rubik Doodle Shadow", system-ui;
+	font-weight: 600px;
+	font-style: normal;
+	text-align: center;
+	font-size: 40px;
+}
+.sortby h3{
+  border: 2px black bold;
+}
+/*.filtralph{
+width: 120px;
+height: 30px;
+text-align: center;
+}*/
+.filtr1{
+	background-color: lightblue;
+	color: black;
+  width: 120px;
+	height: 30px;
+	font-style: bold;
+  border: darkblue;
+}
+.search{
+	text-align: center;
+  border-color: darkblue 
+}
+.whats_SWC{
+	text-align: center;
+	color: darkblue;
+}
+.name_of_song1{
+	padding-left: 530px;
+  font-family: "Tilt Neon", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"XROT" 0,"YROT" 0;
+}
+.name_of_song2{
+	padding-left: 560px;
+  font-family: "Tilt Neon", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"XROT" 0,"YROT" 0;
+}
+.name_of_song3{
+	padding-left: 550px;
+  font-family: "Tilt Neon", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"XROT" 0,"YROT" 0;
+}
+.name_of_song4{
+	padding-left: 580px;
+  font-family: "Tilt Neon", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"XROT" 0,"YROT" 0;
+}
+.ssilka{
+  padding-left: 425px;
+}
+audio{
+   padding-left: 425px;
+   height: 45px;
+   width: 450px;
+}
